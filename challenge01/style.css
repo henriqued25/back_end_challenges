@@ -1,0 +1,14 @@
+/* Pequeno arquivo de estilização css usado para deixar a página centralizada e um pouco mais agradável */
+body {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #f8f8ff;
+
+    margin: 0;
+    p {
+        font-size: 20px;
+    }
+}
